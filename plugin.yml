@@ -1,0 +1,22 @@
+name: Tester
+main: eu.horyzon.tester.bukkit.Tester
+version: 1.0
+description: Test some features!
+author: LLIcocoman_Hrz
+website: http://horyzon.eu
+
+commands:
+  teseter:
+    aliases: [test]
+    description: Test command
+    permission: tester.command
+
+permissions:
+  tester.*:
+    description: Allows access to everything
+    default: op
+    children:
+      tester.command: true
+  tester.command:
+    description: Allows access to commands
+    default: op

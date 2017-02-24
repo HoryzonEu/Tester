@@ -1,0 +1,4 @@
+name: Tester
+version: indev
+author: [LLIcocoman]
+main: eu.horyzon.tester.bungee.Tester

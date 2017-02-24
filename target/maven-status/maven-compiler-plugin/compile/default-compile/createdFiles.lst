@@ -1,0 +1,5 @@
+eu\horyzon\tester\bukkit\listener\Chat.class
+eu\horyzon\tester\bukkit\Tester.class
+eu\horyzon\tester\bungee\Tester.class
+eu\horyzon\tester\bungee\listener\Chat.class
+eu\horyzon\tester\bukkit\listener\PlayerInteract.class
